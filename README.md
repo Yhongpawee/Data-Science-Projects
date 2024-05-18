@@ -1,2 +1,4 @@
-# Data-Science-Projects
- Practice and sharpen data skills
+# Data-Science-Projects 🐋📊 📈 📉
+- Exploration Stocks market (LSTM)
+- Recommendation System
+- Fraud Detection
